@@ -1,0 +1,6 @@
+{
+  "name": "The Goat",
+  "description": "Hilarious arcade game: defend sleeping Messi and his World Cup trophy by flinging sandals at buzzing CR7 and IShowSpeed mosquitoes!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

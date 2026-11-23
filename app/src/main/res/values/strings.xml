@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">The Goat</string>
+    <string name="tagline_subtitle">Fling Sandals at Buzzing CR7 &amp; IShowSpeed Mosquitoes!</string>
+    <string name="start_game">TAP TO PLAY</string>
+    <string name="play_again">PLAY AGAIN</string>
+    <string name="high_score_label">BEST</string>
+    <string name="score_label">SCORE</string>
+    <string name="wave_label">WAVE</string>
+    <string name="combo_label">COMBO</string>
+    <string name="sound_on">Sound On</string>
+    <string name="sound_off">Sound Off</string>
+    <string name="pause_game">Pause Game</string>
+    <string name="resume_game">Resume</string>
+    <string name="game_over_title">LEVEL FAILED!</string>
+</resources>
